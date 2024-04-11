@@ -53,6 +53,7 @@
  <p>Objetivo com um Bom Humor</p>
  <p><b>Trabalhando atualmente no setor de T.I da Empresa CamaInBox em Umuarama</b></p>
   <img src="gojo.gif" width="110px" height="180px">
+
 ---
 <div align="center">
   <h3><b>📍Quantas Pessoas me Stalkearam</b></h3>
