@@ -48,10 +48,12 @@
 ---
 ---
 ### 😁 Fatos sobre mim
- <p>Interesse em Programação Web com a utilização de Linguagem PHP para parte do Backend</p>
- <p>No momento estudando Laravel</p>
- <p>Objetivo com um Bom Humor</p>
- <p><b>Trabalhando atualmente no setor de T.I da Empresa CamaInBox em Umuarama</b></p>
+<ol>
+ <li><p>Interesse em Programação Web com a utilização de Linguagem PHP para parte do Backend</p></li>
+ <li><p>No momento estudando Laravel</p></li>
+ <li><p>Objetivo com um Bom Humor</p></li>
+ <li><p><b>Trabalhando atualmente no setor de T.I da Empresa CamaInBox em Umuarama</b></p></li>
+</ol>
   <img src="gojo.gif" width="110px" height="180px">
 
 ---
