@@ -47,11 +47,12 @@
 
 ---
 ---
-###😁 Fatos sobre mim
+### 😁 Fatos sobre mim
  <p>Interesse em Programação Web com a utilização de Linguagem PHP para parte do Backend</p>
  <p>No momento estudando Laravel</p>
  <p>Objetivo com um Bom Humor</p>
 
+  <img src="" width="20px" height="20px">
 ---
 
 <div align="center">
