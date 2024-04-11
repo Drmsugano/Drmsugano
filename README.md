@@ -52,7 +52,7 @@
  <p>No momento estudando Laravel</p>
  <p>Objetivo com um Bom Humor</p>
 
-  <img src="gojo.gif" width="210px" height="380px">
+  <img src="gojo.gif" width="110px" height="280px">
 
 ---
 <div align="center">
