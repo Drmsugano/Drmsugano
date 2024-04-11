@@ -52,9 +52,9 @@
  <p>No momento estudando Laravel</p>
  <p>Objetivo com um Bom Humor</p>
 
-  <img src="gojo.gif" width="20px" height="20px">
----
+  <img src="gojo.gif" width="100px" height="100px">
 
+---
 <div align="center">
   <h3><b>📍Quantas Pessoas me Stalkearam</b></h3>
 </div>
