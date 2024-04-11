@@ -51,9 +51,8 @@
  <p>Interesse em Programação Web com a utilização de Linguagem PHP para parte do Backend</p>
  <p>No momento estudando Laravel</p>
  <p>Objetivo com um Bom Humor</p>
-
+ <h3>Trabalhando atualmente no setor de T.I da Empresa CamaInBox em Umuarama</h3>
   <img src="gojo.gif" width="110px" height="180px">
-
 ---
 <div align="center">
   <h3><b>📍Quantas Pessoas me Stalkearam</b></h3>
