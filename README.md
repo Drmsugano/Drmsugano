@@ -57,7 +57,6 @@
 <div style="display: flex; justify-content: space-between">
   <img src="gojo.gif" width="110px" height="180px">
 </div>
----
 <div align="center">
   <h3><b>📍Quantas Pessoas me Stalkearam</b></h3>
 </div>
