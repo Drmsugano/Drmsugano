@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agbalumo&pause=1000&random=false&width=435&lines=Olá%2C+meu+nome+É+Douglas+Ryosuke+Mitui+Sugano)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&pause=3000&color=F70000&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Douglas+Ryosuke+Mitui+Sugano)](https://git.io/typing-svg)
 
 ### ⚙️ Analise
 
