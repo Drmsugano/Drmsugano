@@ -49,10 +49,26 @@
 
 ### 😁 Fatos sobre mim
 <ol>
- <li><p>Interesse em Programação Web com a utilização de Linguagem PHP para parte do Backend</p></li>
- <li><p>No momento estudando Laravel</p></li>
- <li>Estudante do Curso de Analise e Desenvolvimento de Sistemas no IFPR no Campus Umuarama</li>
- <li><p><b>Trabalhando atualmente no setor de T.I da Empresa CamaInBox em Umuarama</b></p></li>
+ <li>
+   <p>Interesse em Programação Web com a utilização de Linguagem PHP para parte do Backend</p>
+ </li>
+ <li>
+   <p>Conhecimento intermediario em Java, PHP, Javascript e Python</p>
+ </li>
+  <li>
+    <p>Conhecimento intermediario em Frameworks como ReactJS/NextJS e Laravel</p>
+  </li>
+  <li>
+    <p>
+      <b>1 hora de Qualquer linguagem do mundo é 1 ano em JAVA</b>
+    </p>
+  </li>
+ <li>
+   Estudante do Curso de Analise e Desenvolvimento de Sistemas no IFPR no Campus Umuarama
+ </li>
+ <li>
+   <p>Trabalhando atualmente no setor de T.I da Empresa CamaInBox em Umuarama</p>
+ </li>
 </ol>
 <div style="display: flex; justify-content: space-between">
   <img src="gojo.gif" width="110px" height="180px">
