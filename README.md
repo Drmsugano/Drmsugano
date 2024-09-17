@@ -53,7 +53,7 @@
    <p>Interesse em Programação Web com a utilização de Linguagem PHP para parte do Backend</p>
  </li>
  <li>
- <p>Conhecimento intermediario em Java, PHP, Javascript e Python (Pelo menos sei como fazer como fazer um "Hello World" em todas essas Linguagens)</p>
+ <p>Conhecimento intermediario em Java, PHP, Javascript e Python (Pelo menos sei como fazer um "Hello World" em todas essas Linguagens)</p>
  </li>
   <li>
     <p>Conhecimento intermediario em Frameworks como ReactJS/NextJS e Laravel</p>
