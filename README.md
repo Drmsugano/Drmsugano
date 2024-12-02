@@ -83,3 +83,5 @@
     alt="Número de visitantes no perfil"
   />
 </p>
+<br>
+  ![snake animation](https://raw.githubusercontent.com/drmsugano/drmsugano/output/github-contribution-grid-snake-dark.svg)
