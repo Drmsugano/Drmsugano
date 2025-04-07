@@ -77,5 +77,3 @@
   />
 </p>
 <br>
-
-<iframe src="https://youtu.be/RYnFIRc0k6E?feature=shared" title="description"></iframe>
