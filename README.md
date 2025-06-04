@@ -6,10 +6,25 @@ Sou profissional de Tecnologia da Informação com experiência em desenvolvimen
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens & Frameworks:** PHP, Laravel, JavaScript, NextJs, Python, Java,
-- **Banco de Dados:** MySQL, Redis, Firebird
-- **Infraestrutura:** Docker, Linux, Apache2
-- **Outros:** Git, SweetAlert2, Shell Script
+### Linguagens e Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Banco de Dados e Cache
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Infraestrutura e DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Ferramentas & Utilitários
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-6C5DD3?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
@@ -41,4 +56,4 @@ Sou profissional de Tecnologia da Informação com experiência em desenvolvimen
 ## 📫 Como me encontrar
 
 - Email: [drmsugano@outlook.com](mailto:drmsugano@outlook.com)
-- LinkedIn: [[linkedin.com/in/douglas-ryosuke-mitui-sugano-5b04b3236](https://br.linkedin.com/in/douglas-ryosuke-mitui-sugano-5b04b3236)
+- LinkedIn: [linkedin.com/in/douglas-ryosuke-mitui-sugano-5b04b3236](https://br.linkedin.com/in/douglas-ryosuke-mitui-sugano-5b04b3236)
