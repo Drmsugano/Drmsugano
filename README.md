@@ -41,4 +41,4 @@ Sou profissional de Tecnologia da Informação com experiência em desenvolvimen
 ## 📫 Como me encontrar
 
 - Email: [drmsugano@outlook.com](mailto:drmsugano@outlook.com)
-- LinkedIn: [[linkedin.com/in/](https://br.linkedin.com/in/douglas-ryosuke-mitui-sugano-5b04b3236)([https://linkedin.com/in/seuperfil](https://br.linkedin.com/in/douglas-ryosuke-mitui-sugano-5b04b3236))
+- LinkedIn: [[linkedin.com/in/douglas-ryosuke-mitui-sugano-5b04b3236](https://br.linkedin.com/in/douglas-ryosuke-mitui-sugano-5b04b3236)
