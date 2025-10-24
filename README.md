@@ -28,7 +28,6 @@ Profissional de Tecnologia da Informação com foco em desenvolvimento de sistem
 #### Utilitários  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![SweetAlert2](https://img.shields.io/badge/SweetAlert2-6C5DD3?style=flat&logo=javascript&logoColor=white)
 
 ---
 
