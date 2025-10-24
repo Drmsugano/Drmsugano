@@ -34,7 +34,9 @@ Profissional de Tecnologia da Informação com foco em desenvolvimento de sistem
 
 ### 🔧 Atualmente
 
-- APIs REST e Aplicações com Laravel  
+- APIs REST e Aplicações com Laravel
+- Envio de mensagens através de API do Telegram
+- Dashboard para monitoramento de Produção com o Grafana  
 - Otimização de performance com Redis  
 - Controle de produção e automações sob medida  
 - Ambientes Linux customizados
